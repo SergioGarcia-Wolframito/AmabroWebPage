@@ -1,2 +1,2 @@
 
-https://sergiogarcia-wolframito.github.io/AmabroWebPage.github.io/index.html
+https://sergiogarcia-wolframito.github.io/AmabroWebPage.github.io/
