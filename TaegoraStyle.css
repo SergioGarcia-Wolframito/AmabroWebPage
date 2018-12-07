@@ -1,0 +1,21 @@
+.Titulo{
+
+
+background-color: green;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  /* IMPORTANTE */
+  text-align: center;
+  font-size : 70px
+
+}
+*{
+margin : 0px
+}
+
+body{
+	 
+  background-color: light-blue;
+
+}
